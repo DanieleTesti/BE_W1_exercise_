@@ -5,5 +5,5 @@
  * @author Daniele
  *
  */
-module BE_W1_L4 {
+module BE_W1_exercise {
 }
