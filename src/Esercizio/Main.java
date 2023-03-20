@@ -8,7 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner s = new Scanner(System.in);
 
-		elemento_multimediale[] elementi = new elemento_multimediale[1];
+		elemento_multimediale[] elementi = new elemento_multimediale[5];
 		for (int i = 0; i < elementi.length; i++) {
 			System.out.println("Inserisci il tipo di elemento da inserire( 1 immagine || 2 audio || 3 video )");
 			int tipo = s.nextInt();
